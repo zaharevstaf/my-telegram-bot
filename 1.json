@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "velvety-ray-444423-a6",
+  "private_key_id": "806ec6717566103abe44272d71926eda027f3a42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0wWFBGZOKvUGl\ntz29SPR56nW3bDsVBtInL8igIvx6Cgl+Kc04nF4w8JZdAJQXn8AHBHZHtbsk2UZo\nJaNp0F//JsNm8SSXRPVODYTNx/Y/TKQPii8wwFb0lQ1rp1jMPTtlTNcGnQBMZM5o\nq+EV5gl/r6hN1SsAYnN5WuvE+4npna1evrBAMUxNw6xbOoWkWB8jEoF9vMgV7mj1\nig+e0H8fBZD79vUoeJ4fqycSw+P+0D/oxN0g877hX+GY2Nks75SpDLEelANoooYI\n34ERhgrG8IiGKQ+u9WctSyheN+EqETNaW6ZXsQKnfElz36rt20j4gY9x8mDqxDMO\nASVh0ysfAgMBAAECggEATQb7gtp7XWw5RX1I+hjU1f9sGrYsl1FIzRo3zMYcAYW1\ndeYqZi18li5wZUGR2l9hXZwxK23uSk2tC0S+1qDNx9Wk/4FTroLcZl6scWT9Mwxd\n/aFNauEMLT43ceDmnmKZpRmRqGfPcL6kl0ZnrQVSlu8sMb7djFRoERcF0fO/WaX4\nXCS0oLeJXgnGhBRHbutR57z8H7/ul8j7Eo1OLPtWmzrI+C7DeeW+fYKAJ6yFcS9W\n5tDmVKeJu8sbeN8u3tSlvTkXnWkvpVNloaeqC6LADyiyC6zG9esd1Z4ZknUargPW\nMRMVWY+XKhYmXS9OCXXFHySa4FphPmb+hFqa9rDdgQKBgQDis3hNnSqE6LCmkief\nnbXx1FS6FAgUD7XJl11PZSAky5nJxMZqu4HZu5E+K1O0a9JbgAy7ydnq/DN8hfl6\nd3zSsGp8mLvWQ1Yrt2/R2awXjntvrOCaVBb7W/rNs90hGRHf44MJMGjyHOdraKlc\nRyY70JmJ9V6k3UleqrT98jnZWQKBgQDMHcWufDIsBxuiS1uvN9BLffoYZpa50fCV\nuqRrzMcgQrBN+La0JSlJ+JaYODTjHEw1mpYhb5z1hhdtw4Dr49W2lnQb0uiOZZT/\nRHs8pOywZep9WJjg+xQ2R2osm7NJm4i150BkbPlyWZ7o3cSdLqD4uYbWuqP/4IaE\nf9AoKEkhNwKBgQCVlGlqfKsTax0zqvft/3ePitQkuxbhdcQysWbl/gmJfbWJRgbN\nYc85xOL+rEPcpc/0g7bjKTpaK/Ik1ZlYzwJTWgfJElXN+DwhODXVttQv7tlPRDgm\nXBmV3IjNtUHQluQOX+WT6Jc2ORAQ9MvakS+PBAJq3rWF/mRszCID9RFqcQKBgQC6\nI6hjf2Ttm6nKrfg1aKuuPHr3B48Kc/Z3RNaua/dnZwmKgXZz/7OQfn8u34rzVZn2\nBDxGz5cOnDL/aRtHguUg9kF6IjLrsJ1Y0KWl3yztjHNzzXjVKoL7INMlTPQJ+ymH\n4RRqwKoWar4s1Bh50sz/JYlehqQKM0HY0QoNpPdTrwKBgAVNOrovybI42uEAEMpY\n2cvtmD9Bal2jSVZuiunQxmcb5YvuzXHJ7HAmSGmHSjdbedNsX9neqDwpLRcBoPMm\nYaP45wlB1lCwPCmqJXF3s3J9nR40899h2KJVcyJ6DV+F1RvQahSfaySy3ZSoAh/5\nrz6IHZ8MLenjJ51+TOK2VNZg\n-----END PRIVATE KEY-----\n",
+  "client_email": "delete-oxygen-bot@velvety-ray-444423-a6.iam.gserviceaccount.com",
+  "client_id": "109178107162024195214",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/delete-oxygen-bot%40velvety-ray-444423-a6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
